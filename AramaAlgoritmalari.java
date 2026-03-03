@@ -1,4 +1,4 @@
-public class AramaAlgoritmalari {
+ public class AramaAlgoritmalari {
     static int linearSearch(int[] dizi, int n){
         for(int i = 0; i < dizi.length; i++){
             if(dizi[i]== n){
